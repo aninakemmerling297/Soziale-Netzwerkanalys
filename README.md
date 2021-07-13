@@ -1,1 +1,1 @@
-# Soziale-Netzwerkanalys
+# Soziale-Netzwerkanalyse
